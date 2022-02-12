@@ -24,7 +24,6 @@ const Sidebar = ({
               <button onClick={(e) => onDeleteNote(id)}><i class="ri-delete-bin-2-line"></i></button>
             </div>
             <small className="note-meta">
-              Last Modified{" "}
               {new Date(lastModified).toLocaleDateString("en-GB", {
                 hour: "2-digit",
                 minute: "2-digit",
