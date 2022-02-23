@@ -1,2 +1,2 @@
 # ReKord
-![Demo image](/demo.png)
+![Demo image](/rekord.gif)
